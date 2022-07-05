@@ -7,8 +7,8 @@
   "license": "MIT",
   "private": false,
   "engines" : {
-    "npm" : ">=8.0.0",
-    "node" : ">=16.0.0"
+    "npm" : "8.12.1",
+    "node" : "18.4.0"
   },
   "scripts": {
     "dev": "nodemon -r ts-node --esm -r tsconfig-paths/register src/main.ts",
